@@ -1,7 +1,7 @@
 {
   "name": "RyuBotz",
   "version": "4.0.0",
-  "description": "RyuBotz Multi Device",
+  "description": "KiaraBotz Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
